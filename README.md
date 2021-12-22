@@ -11,3 +11,12 @@ The links above show there is a bit of a bug between anti-virus software and the
 ## Insights Discovered
 
 I intent to put my insights I discover here. 
+
+## Reproducable Steps
+1) I obtained the source code from this thread: https://community.rstudio.com/t/how-can-i-compare-the-source-code-of-different-versions-of-r/124691
+2) I followed the directions here to unzip the tars into the uncompress state: https://pureinfotech.com/extract-tar-gz-files-windows-10/
+3) I unziped R-4.1.1.tar.gz put it in this github repository.
+4) I committed as the "Repository Intialization 4.1.1"
+5) I unziped R-4.1.2.tar.gz put it in this github repository
+6) I committed as the "Changes from 4.1.2"
+7) I then looked a internet.c file and internet folder for the differences.
