@@ -1,5 +1,5 @@
 # r-source_securitycheck
-A Cyber Security Check of the R-source Package between two versions similar to the read only mirror https://svn.r-project.org/R/, updated hourly.   If you looking for the R source code: github.com/wch/r-source/wiki/
+A Cyber Security Check of the R-source Package between two versions. This is similar to the R-source code mirror, which you can find here: https://github.com/wch/r-source/wiki/ 
 
 ## Sole Reason this Github exists:
 https://community.rstudio.com/t/potential-solution-for-when-anti-virus-prevents-moving-a-temporary-installation/39576
